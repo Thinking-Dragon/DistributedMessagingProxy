@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Thinking-Dragon/DistributedMessagingProxy#readme",
   "dependencies": {
-    "amqplib": "^0.6.0"
+    "amqplib": "^0.6.0",
+    "axios": "^0.19.2"
   }
 }
