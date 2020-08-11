@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Thinking-Dragon/DistributedMessagingProxy/issues"
   },
-  "homepage": "https://github.com/Thinking-Dragon/DistributedMessagingProxy#readme"
+  "homepage": "https://github.com/Thinking-Dragon/DistributedMessagingProxy#readme",
+  "dependencies": {
+    "amqplib": "^0.6.0"
+  }
 }
